@@ -6,6 +6,6 @@
 Hello!
 
 
-## 190622
-* Java recap
+## 190623
+* Java - data structure, oop
 * Android recap
