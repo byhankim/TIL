@@ -4,3 +4,8 @@
 
 ### Java
 Hello!
+
+
+## 190622
+* Java recap
+* Android recap
