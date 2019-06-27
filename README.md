@@ -13,5 +13,5 @@ Hello!
 ## Markdown lang
 * prac
 [x] hi
-[] hello
-[ ] welcome
+* [] hello
+*[ ] welcome
