@@ -9,3 +9,9 @@ Hello!
 ## 190623
 * Java - data structure, oop
 * Android recap
+
+## Markdown lang
+* prac
+[x] hi
+[] hello
+[ ] welcome
