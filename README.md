@@ -15,3 +15,6 @@ Hello!
 * [x] hi
 * [] hello
 * [ ] welcome
+
+## Reboot since 20200222
+* github / pages
