@@ -36,5 +36,12 @@
   wsl --set-version <배포판 이름> <숫자 1 혹은 2를 입력하여 버전 지정>
   # 예) wsl --set-version Ubuntu-18.04 2
 ```
-12. 내친 김에 MS store에서 Winsdows Terminal까지 설치! 프로필 설정도 [공식문서](https://docs.microsoft.com/ko-kr/windows/terminal/customize-settings/profile-settings)를 보면서 따라해보자!
+12. 내친 김에 MS store에서 Winsdows Terminal까지 설치! 프로필 설정도 [공식문서1](https://docs.microsoft.com/ko-kr/windows/terminal/customize-settings/profile-settings),[2]()를 보면서 따라해보자!
+13. motd(message of the day) 뻘짓 -> Ubuntu 18.04의 경우 /etc/update-mtod.d 폴더 안에 다수 파일 존재(복잡)
 
+------
+### 숙제
+- wsl2 gui
+- terminal installed
+- terminal motd along with all other subsystems
+- terminal vs individual windows for linux(path issue)
